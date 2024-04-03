@@ -1,0 +1,1 @@
+Projeto feito seguindo os passos de Preparação de Dados, Modelagem e Avaliações de Modelo com base no dataset de Focos de incendiso no Brasil em 2020: https://www.kaggle.com/datasets/fidelissauro/focos-incendios-brasil
